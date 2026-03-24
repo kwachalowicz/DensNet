@@ -59,7 +59,7 @@ Images are normalized to [0, 1] automatically during loading.
 ## Requirements
 
 ```bash
-pip install tensorflow h5py numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 Tested with Python 3.8+, TensorFlow 2.x.
